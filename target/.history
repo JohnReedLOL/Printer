@@ -1,0 +1,4 @@
+sbt package
+package
+clean
+package

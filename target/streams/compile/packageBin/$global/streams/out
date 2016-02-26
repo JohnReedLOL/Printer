@@ -1,0 +1,19 @@
+[0m[[0minfo[0m] [0mPackaging /home/johnreed/IdeaProjects/Printer/target/scala-2.11/printer_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com[0m
+[0m[[0mdebug[0m] [0m	  /home/johnreed/IdeaProjects/Printer/target/scala-2.11/classes/com[0m
+[0m[[0mdebug[0m] [0m	com/stacktrace/debug/Print$$anonfun$line$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/johnreed/IdeaProjects/Printer/target/scala-2.11/classes/com/stacktrace/debug/Print$$anonfun$line$1.class[0m
+[0m[[0mdebug[0m] [0m	com/stacktrace[0m
+[0m[[0mdebug[0m] [0m	  /home/johnreed/IdeaProjects/Printer/target/scala-2.11/classes/com/stacktrace[0m
+[0m[[0mdebug[0m] [0m	com/stacktrace/debug/Print.class[0m
+[0m[[0mdebug[0m] [0m	  /home/johnreed/IdeaProjects/Printer/target/scala-2.11/classes/com/stacktrace/debug/Print.class[0m
+[0m[[0mdebug[0m] [0m	com/stacktrace/debug/Print$$anonfun$line$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/johnreed/IdeaProjects/Printer/target/scala-2.11/classes/com/stacktrace/debug/Print$$anonfun$line$2.class[0m
+[0m[[0mdebug[0m] [0m	com/stacktrace/debug/Print$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/johnreed/IdeaProjects/Printer/target/scala-2.11/classes/com/stacktrace/debug/Print$.class[0m
+[0m[[0mdebug[0m] [0m	com/stacktrace/debug/Print$$anonfun$asrt$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/johnreed/IdeaProjects/Printer/target/scala-2.11/classes/com/stacktrace/debug/Print$$anonfun$asrt$1.class[0m
+[0m[[0mdebug[0m] [0m	com/stacktrace/debug[0m
+[0m[[0mdebug[0m] [0m	  /home/johnreed/IdeaProjects/Printer/target/scala-2.11/classes/com/stacktrace/debug[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
